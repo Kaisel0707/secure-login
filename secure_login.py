@@ -13,4 +13,3 @@ while failed < 3:
         print(f"wrong password, {3-failed} tries left")
 if failed == 3:
     print("locked")
- 
